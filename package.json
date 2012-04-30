@@ -1,0 +1,17 @@
+{
+  "author": "Luke Arduini <luke.arduini@me.com> (mtambo.com)",
+  "name": "nodeapp-director-http",
+  "description": "Node.js Director HTTP Boilerplate",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "director": "1.0.10"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
