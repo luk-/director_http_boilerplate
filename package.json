@@ -4,7 +4,8 @@
   "description": "Node.js Director HTTP Boilerplate",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git@github.com:st-luke/director_http_boilerplate.git"
   },
   "dependencies": {
     "director": "1.0.10"
